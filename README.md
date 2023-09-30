@@ -1,2 +1,2 @@
-# The-Blue-Heaven
+# Heaven
 This is my first Git repository
